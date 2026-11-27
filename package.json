@@ -12,22 +12,13 @@
     "@fontsource/inter": "^5.0.0",
     "@fontsource/jetbrains-mono": "^5.0.0",
     "@google/generative-ai": "^0.24.1",
-    "axios": "^1.6.0",
-    "clsx": "^2.1.1",
-    "framer-motion": "^10.16.0",
     "google-trends-api": "^4.9.2",
     "html2canvas": "^1.4.1",
     "jspdf": "^4.1.0",
-    "lucide-react": "^0.294.0",
     "mongodb": "^6.3.0",
     "next": "^14.0.0",
     "react": "^18.2.0",
-    "react-dom": "^18.2.0",
-    "react-markdown": "^9.0.0",
-    "reactflow": "^11.10.0",
-    "recharts": "^2.10.0",
-    "tailwind-merge": "^3.4.0",
-    "zustand": "^4.4.0"
+    "react-dom": "^18.2.0"
   },
   "devDependencies": {
     "@types/node": "^20.10.0",
